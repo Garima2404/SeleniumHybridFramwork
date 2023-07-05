@@ -51,6 +51,7 @@ public class BaseClass {
 		
 		driver.get(URL);	
 		logger.info("URL is opened");
+		System.out.println("Git Added ");
 	}	
 		
     @AfterClass
